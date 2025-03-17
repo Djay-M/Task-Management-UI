@@ -102,13 +102,6 @@ const BoardView = () => {
             </button>
           </nav>
         </div>
-        <div className="flex items-center justify-center gap-3 mt-6">
-          <span className="text-gray-400 text-sm">☀️</span>
-          <div className="w-10 h-5 bg-purple-700 rounded-full flex items-center p-1 cursor-pointer">
-            <div className="w-3 h-3 bg-white rounded-full"></div>
-          </div>
-          <span className="text-white text-sm">🌙</span>
-        </div>
       </aside>
 
       {/* Main board */}
